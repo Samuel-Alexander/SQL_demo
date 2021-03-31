@@ -1,1 +1,1 @@
-# homework-SQL
+# SQL-demo
